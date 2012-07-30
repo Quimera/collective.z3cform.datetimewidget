@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.2.2  (unreleased)
+-------------------
+ * Fix IE7/8 KB927917 error
+
 1.2.1 (unreleased)
 ------------------
 
